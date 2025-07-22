@@ -1,0 +1,20 @@
+# Simple Calculator - Python
+
+This is a basic calculator made using Python. It performs:
+- Addition
+- Subtraction
+- Multiplication
+- Division (with zero-check)
+- Exit option
+
+## How it works
+
+- User selects an operation by entering 1 to 5.
+- Then enters two numbers.
+- The result is displayed.
+- Loop continues until user selects "5" to exit.
+
+## How to Run
+
+```bash
+python main.py
